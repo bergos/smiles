@@ -1,0 +1,22 @@
+{
+  "label": "Isotope",
+  "smiles": "[10C]",
+  "tokens": [
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "Isotope",
+      "value": "10"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    }
+  ]
+}

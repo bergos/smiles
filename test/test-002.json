@@ -1,0 +1,174 @@
+{
+  "label": "Test 002",
+  "smiles": "c1c(c2c(S(=O)(=O)c3ccccc3)c[nH]c2cc1)CCNCC",
+  "tokens": [
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Ringbond",
+      "value": 1
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Ringbond",
+      "value": 2
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "S"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "Bond",
+      "value": "="
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "O"
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "Bond",
+      "value": "="
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "O"
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Ringbond",
+      "value": 3
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Ringbond",
+      "value": 3
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticSymbol",
+      "value": "n"
+    },
+    {
+      "type": "HydrogenCount",
+      "value": 1
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Ringbond",
+      "value": 2
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Ringbond",
+      "value": 1
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "N"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    }
+  ]
+}

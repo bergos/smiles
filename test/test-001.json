@@ -1,0 +1,242 @@
+{
+  "label": "Test 001",
+  "smiles": "C1N(CCCON2C(=O)C3C(C4C=CC3C4)C2=O)CCN(c2cccc(c2)C(F)(F)F)C1",
+  "tokens": [
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Ringbond",
+      "value": 1
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "N"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "O"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "N"
+    },
+    {
+      "type": "Ringbond",
+      "value": 2
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "Bond",
+      "value": "="
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "O"
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Ringbond",
+      "value": 3
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Ringbond",
+      "value": 4
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Bond",
+      "value": "="
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Ringbond",
+      "value": 3
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Ringbond",
+      "value": 4
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Ringbond",
+      "value": 2
+    },
+    {
+      "type": "Bond",
+      "value": "="
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "O"
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "N"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Ringbond",
+      "value": 2
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Ringbond",
+      "value": 2
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "F"
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "F"
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "F"
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Ringbond",
+      "value": 1
+    }
+  ]
+}

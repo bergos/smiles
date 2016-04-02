@@ -1,0 +1,66 @@
+{
+  "label": "Branch",
+  "smiles": "CC(C)C(=O)C(C)C",
+  "tokens": [
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "Bond",
+      "value": "="
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "O"
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Branch",
+      "value": "begin"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Branch",
+      "value": "end"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    }
+  ]
+}

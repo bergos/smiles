@@ -1,0 +1,46 @@
+{
+  "label": "AliphaticOrganic",
+  "smiles": "BCNOSPFClBrI",
+  "tokens": [
+    {
+      "type": "AliphaticOrganic",
+      "value": "B"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "N"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "O"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "S"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "P"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "F"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "Cl"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "Br"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "I"
+    }
+  ]
+}

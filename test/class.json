@@ -1,0 +1,38 @@
+{
+  "label": "Class",
+  "smiles": "[C:1][C:10]",
+  "tokens": [
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "Class",
+      "value": "1"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "Class",
+      "value": "10"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    }
+  ]
+}

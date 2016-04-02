@@ -1,0 +1,102 @@
+{
+  "label": "Charge",
+  "smiles": "[C-][C-2][C-15][C+][C+2][C+15]",
+  "tokens": [
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "Charge",
+      "value": -1
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "Charge",
+      "value": -2
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "Charge",
+      "value": -15
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "Charge",
+      "value": 1
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "Charge",
+      "value": 2
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "Charge",
+      "value": 15
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    }
+  ]
+}

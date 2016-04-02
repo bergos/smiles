@@ -1,0 +1,30 @@
+{
+  "label": "AromaticOrganic",
+  "smiles": "bcnosp",
+  "tokens": [
+    {
+      "type": "AromaticOrganic",
+      "value": "b"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "n"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "o"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "s"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "p"
+    }
+  ]
+}

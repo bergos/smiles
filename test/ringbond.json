@@ -1,0 +1,62 @@
+{
+  "label": "Ringbond",
+  "smiles": "c1ccc%10CCCc=%10c1",
+  "tokens": [
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Ringbond",
+      "value": 1
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Ringbond",
+      "value": 10
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Bond",
+      "value": "="
+    },
+    {
+      "type": "Ringbond",
+      "value": 10
+    },
+    {
+      "type": "AromaticOrganic",
+      "value": "c"
+    },
+    {
+      "type": "Ringbond",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "label": "Dot-Bond",
+  "smiles": "[Na].[Cl]",
+  "tokens": [
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "Na"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "Bond",
+      "value": "."
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "Cl"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    }
+  ]
+}

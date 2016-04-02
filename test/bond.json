@@ -1,0 +1,66 @@
+{
+  "label": "Bond",
+  "smiles": "C-C=C#C$C:C/C\\C",
+  "tokens": [
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Bond",
+      "value": "-"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Bond",
+      "value": "="
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Bond",
+      "value": "#"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Bond",
+      "value": "$"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Bond",
+      "value": ":"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Bond",
+      "value": "/"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    },
+    {
+      "type": "Bond",
+      "value": "\\"
+    },
+    {
+      "type": "AliphaticOrganic",
+      "value": "C"
+    }
+  ]
+}

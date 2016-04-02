@@ -1,0 +1,102 @@
+{
+  "label": "AromaticSymbol",
+  "smiles": "[b][c][n][o][p][s][se][as]",
+  "tokens": [
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticSymbol",
+      "value": "b"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticSymbol",
+      "value": "c"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticSymbol",
+      "value": "n"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticSymbol",
+      "value": "o"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticSymbol",
+      "value": "p"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticSymbol",
+      "value": "s"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticSymbol",
+      "value": "se"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "AromaticSymbol",
+      "value": "as"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    }
+  ]
+}

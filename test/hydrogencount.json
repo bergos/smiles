@@ -1,0 +1,54 @@
+{
+  "label": "HydrogenCount",
+  "smiles": "[CH0][CH][CH9]",
+  "tokens": [
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "HydrogenCount",
+      "value": 0
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "HydrogenCount",
+      "value": 1
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    },
+    {
+      "type": "BracketAtom",
+      "value": "begin"
+    },
+    {
+      "type": "ElementSymbol",
+      "value": "C"
+    },
+    {
+      "type": "HydrogenCount",
+      "value": 9
+    },
+    {
+      "type": "BracketAtom",
+      "value": "end"
+    }
+  ]
+}
