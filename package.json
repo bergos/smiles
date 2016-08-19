@@ -4,7 +4,7 @@
   "description": "OpenSMILES compatible parser and serializer",
   "main": "index.js",
   "scripts": {
-    "build": "pegjs lib/smiles.pegjs lib/parser.js",
+    "build": "pegjs -o lib/parser.js lib/smiles.pegjs",
     "lint": "standard index.js lib/serializer.js test/test.js",
     "prepublish": "npm run build",
     "test": "npm run lint && mocha"
@@ -27,7 +27,7 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "^2.4.5",
-    "pegjs": "^0.9.0",
+    "pegjs": "^0.10.0",
     "standard": "^6.0.8"
   },
   "readmeFilename": "README.md"
